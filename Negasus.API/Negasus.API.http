@@ -1,0 +1,6 @@
+@Negasus.API_HostAddress = http://localhost:5116
+
+GET {{Negasus.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

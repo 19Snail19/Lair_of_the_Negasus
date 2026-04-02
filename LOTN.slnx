@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Negasus.API/Negasus.API.csproj" />
+  <Project Path="Negasus.Console/Negasus.Console.csproj" />
+</Solution>

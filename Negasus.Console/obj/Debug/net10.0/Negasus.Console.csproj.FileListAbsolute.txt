@@ -1,0 +1,14 @@
+C:\Users\jessi\Projects\LOTN\Negasus.Console\bin\Debug\net10.0\Negasus.Console.exe
+C:\Users\jessi\Projects\LOTN\Negasus.Console\bin\Debug\net10.0\Negasus.Console.deps.json
+C:\Users\jessi\Projects\LOTN\Negasus.Console\bin\Debug\net10.0\Negasus.Console.runtimeconfig.json
+C:\Users\jessi\Projects\LOTN\Negasus.Console\bin\Debug\net10.0\Negasus.Console.dll
+C:\Users\jessi\Projects\LOTN\Negasus.Console\bin\Debug\net10.0\Negasus.Console.pdb
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.AssemblyInfoInputs.cache
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.AssemblyInfo.cs
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.csproj.CoreCompileInputs.cache
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.dll
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\refint\Negasus.Console.dll
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.pdb
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.genruntimeconfig.cache
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\ref\Negasus.Console.dll
