@@ -1,11 +1,12 @@
 namespace Negasus.Console.Tools;
 
-using System;    
+using System;
+using Negasus.Console.Models;
 
 public class Start
 {
     
-    public static async Task Intro()
+    public static void Intro()
     {        
         string titleArt = @"()\ )                 
 (()/(     )  (   (    
@@ -31,7 +32,8 @@ public class Start
         
         Console.WriteLine(titleArt);
 
-        Menu.MainMenu();
+        HiScore.GetScore();
+        Thread.Sleep(1500);
 
         Text.Typewrite("\nPlease enter your name.");
         EnterName:

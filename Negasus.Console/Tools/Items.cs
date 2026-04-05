@@ -7,15 +7,16 @@ class Items
     public static bool artifactUsed = false;
     public static int potions = 1;
     public static int potHeal = 0;
-    public static int index;
-    public static int weapResult;
+    public static int index = 0;
+    public static int weapResult = 0;
     public static string[] accessory = ["cowboy hat", "bracers", "keychain", "smiley sticker"];
     public static string[] artifact = ["Wand of Staves", "Quadforce", "Staff of Wands", "Goldfish in a Bag"];
     public static string [] weapons = ["pointy twig, broomstick, dagger, whip, broadsword, RPG"];
 
     public static void WeapLoot()
     {
-
+        Items.index = Rolls.rand.Next(weapons.Length);
+        
         if (weapons[index] == Program.currentPlayer.equipWeap)
         {
             NoLoot();

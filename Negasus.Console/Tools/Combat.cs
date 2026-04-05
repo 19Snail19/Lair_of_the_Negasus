@@ -119,12 +119,10 @@ class Combat
         Text.Typewrite("terrorize the land!");
         Text.Typewrite($"\nYou managed to defeat {Program.currentPlayer.roomsClear} enemies before");
         Text.Typewrite("your untimely demise.");
-        //Remove the below code once high score system has been implemented.
-        Text.Typewrite("Once I code in the high score system, that will mean something. Until then,");
-        Text.Typewrite("just write it down somewhere or tattoo it on your cheek or something so you");
-        Text.Typewrite("can brag about it to people who are giving you a weird (scared?) look.");
 
-        Text.Typewrite("Press any key to quit. But don't be a stranger!");
+        HiScore.UpdateScore();
+
+        Console.WriteLine("\nPress any key to quit. But don't be a stranger!");
         Console.ReadKey(true);
     }
 

@@ -32,3 +32,4 @@ C:\Users\jessi\Projects\LOTN\Negasus.API\obj\Debug\net10.0\Negasus.API.pdb
 C:\Users\jessi\Projects\LOTN\Negasus.API\obj\Debug\net10.0\Negasus.API.genruntimeconfig.cache
 C:\Users\jessi\Projects\LOTN\Negasus.API\obj\Debug\net10.0\ref\Negasus.API.dll
 C:\Users\jessi\Projects\LOTN\Negasus.API\bin\Debug\net10.0\Resources\BestRun.json
+C:\Users\jessi\Projects\LOTN\Negasus.API\obj\Debug\net10.0\Negasus.API.sourcelink.json

@@ -14,8 +14,8 @@ namespace Negasus.Console.Tools;
         public bool accessorySticker = false;
 
         public int roomsClear = 0;
-        public int health = 20;
-        public int maxHealth = 20; //+ strength
+        public int health = 0;
+        public int maxHealth = 19; //+ strength
         public int defense = 12;
         public int damage = 0;
         public int playerAtkRoll = 0; // + agility / 2

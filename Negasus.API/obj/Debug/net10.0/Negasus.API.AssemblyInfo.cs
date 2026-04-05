@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Negasus.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9c2f0b807b0f120fe4f07eb3178fcc36dab38c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Negasus.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Negasus.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

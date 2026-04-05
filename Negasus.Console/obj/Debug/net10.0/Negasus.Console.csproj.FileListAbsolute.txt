@@ -12,3 +12,4 @@ C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\refint\Negasus.Co
 C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.pdb
 C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.genruntimeconfig.cache
 C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\ref\Negasus.Console.dll
+C:\Users\jessi\Projects\LOTN\Negasus.Console\obj\Debug\net10.0\Negasus.Console.sourcelink.json
