@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Negasus.Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+514565c8db344c78025f62295e5f1cbd0657f623")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+905b0f7ced8bdf11ce6be98c4c6927cac8f9b3eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Negasus.Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Negasus.Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

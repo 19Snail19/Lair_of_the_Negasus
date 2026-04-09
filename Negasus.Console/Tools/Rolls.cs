@@ -2,7 +2,7 @@ namespace Negasus.Console.Tools;
 
 using System;
 
-class Rolls
+public class Rolls
 {
     public static Random rand = new Random();
 

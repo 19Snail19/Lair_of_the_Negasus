@@ -1,6 +1,6 @@
 namespace Negasus.Console.Tools;
 
-    class Player
+    public class Player
     {
         public string? name;
         public string? combatChoice;
@@ -14,7 +14,7 @@ namespace Negasus.Console.Tools;
         public bool accessorySticker = false;
 
         public int roomsClear = 0;
-        public int health = 0;
+        public int health = 19;
         public int maxHealth = 19; //+ strength
         public int defense = 12;
         public int damage = 0;
