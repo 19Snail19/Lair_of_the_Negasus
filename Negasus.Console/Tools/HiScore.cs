@@ -44,10 +44,12 @@ class HiScore
 
             if (choice == "Y")
             {
-                entry.Name = Program.currentPlayer.name;
-                entry.Foes = Program.currentPlayer.roomsClear.ToString();
-
-                string updatedScore = JsonSerializer.Serialize(entry,
+                var newRun = new List<HighScore>
+                {
+                    new HighScore {Name = Program.currentPlayer.name, Foes = Program.currentPlayer.roomsClear.ToString()}
+                };
+                
+                string updatedScore = JsonSerializer.Serialize(newRun,
                 new JsonSerializerOptions {WriteIndented = true});
 
                 File.WriteAllText(path, updatedScore);
