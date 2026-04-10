@@ -1,5 +1,5 @@
 <Solution>
+  <Project Path="ApiTest/ApiTest.csproj" />
   <Project Path="Negasus.API/Negasus.API.csproj" />
   <Project Path="Negasus.Console/Negasus.Console.csproj" />
-  <Project Path="Negasus.UnitTests/Negasus.UnitTests.csproj" />
 </Solution>

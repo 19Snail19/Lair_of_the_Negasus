@@ -6,7 +6,7 @@ using Negasus.Console.Models;
 using System.Text.Json;
 using System.Text.Json.Nodes;
 
-class HiScore
+public class HiScore
 {
     public static async Task GetScore()
     {
